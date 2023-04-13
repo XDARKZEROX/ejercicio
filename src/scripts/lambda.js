@@ -1,5 +1,3 @@
-//This lambda lives in AWS
-
 export const handler = async(event) => {
     const numOfPlayers = parseInt(event.numOfPlayers);
     const resultString = event.resultString;
