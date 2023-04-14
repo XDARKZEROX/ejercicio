@@ -25,6 +25,7 @@ client.connect().then(async (res) => {
       .then(function (response) {
         let params = createLogRecord(response.data.body)
         createDynamoRecord(params)
+        console.log(params)
       })
       .catch(function (error) {
        console.log(error);

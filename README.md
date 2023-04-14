@@ -9,7 +9,7 @@ Autor: Alexander Guzman Atachao.
 
 https://github.com/XDARKZEROX/ejercicio/tree/master
 
-### Setup Homestead
+### Setup
 
 - Instalar Docker para generar una imagen de Redis para el caso a desarrollar.
 Una vez instalado ejecutar el comando:
