@@ -1,4 +1,4 @@
-const LAMBDA_API_URL = "https://8u1q7xv0k7.execute-api.us-east-2.amazonaws.com/Test/lrcgame";
+const LAMBDA_API_URL = "https://wcqr8rqbgc.execute-api.ca-central-1.amazonaws.com/Test/test";
 const AWS_ACCESS_KEY_ID = ""
 const AWS_SECRET_ACCESS_KEY = ""
 

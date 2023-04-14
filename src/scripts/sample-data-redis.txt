@@ -1,0 +1,22 @@
+{
+    "numOfPlayers": 2,
+    "resultString": "LCR",
+    "gameNumber": 1
+}
+{
+    "numOfPlayers": 3,
+    "resultString": "LR..RCL",
+    "gameNumber": 2
+}
+{
+    "numOfPlayers": 4,
+    "resultString": "L.C.R.C.L.R.C.",
+    "gameNumber": 3
+}
+{
+    "numOfPlayers": 5,
+    "resultString": "LR..RCLLR",
+    "gameNumber": 4
+}
+
+
